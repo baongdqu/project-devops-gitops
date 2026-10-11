@@ -10,7 +10,7 @@ namePrefix: prod-
 
 images:
   - name: ghcr.io/baongdqu/project-devops-webserver/backend
-    newTag: sha-10cea0d
+    newTag: sha-2ed2347
   - name: ghcr.io/baongdqu/project-devops-webserver/frontend
     newTag: sha-10cea0d
 
